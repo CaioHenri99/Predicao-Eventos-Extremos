@@ -30,11 +30,11 @@ Utilizamos a métrica de avaliação RMSE (Raiz Quadrada do Erro Médio)
 
 **Contato dos participantes:**
 
-Caio Henrique: infinit.dev7@gmail.com  
-Andrei:  
-Sofia:  
-Guilherme:  
-Vitor Manoel:  
+* Caio Henrique: infinit.dev7@gmail.com  
+* Andrei:  
+* Sofia:  
+* Guilherme:  
+* Vitor Manoel:  
 
 **Observações:**
 
