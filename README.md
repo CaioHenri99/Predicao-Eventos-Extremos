@@ -28,9 +28,8 @@ Utilizamos o modelo de Machine Learning para a previsão de eventos extremos, ta
 
 Utilizamos a métrica de avaliação RMSE (Raiz Quadrada do Erro Médio)
 
-**Contato:**
+**Contato dos participantes:**
 
-Contato dos participantes:  
 Caio Henrique: infinit.dev7@gmail.com  
 Andrei:  
 Sofia:  
@@ -44,8 +43,8 @@ Vitor Manoel:
 
 **Comissão Organizadora:**
 
-Prof. Maria José Pereira Dantas  
-Prof. José Elmo de Menezes
+* Prof. Maria José Pereira Dantas  
+* Prof. José Elmo de Menezes
 
 **Links Úteis:**
 
