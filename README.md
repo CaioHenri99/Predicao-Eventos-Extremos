@@ -15,7 +15,7 @@ Este projeto tem como objetivo desenvolver um modelo de Machine Learning para pr
 
 Os dados utilizados neste projeto são provenientes de diversas fontes, incluindo:
 
-  * **NASA:** Instituto Nacional de Meteorologia
+  * **NASA:** National Aeronautics and Space Administration
   * **NOAA:** National Oceanic and Atmospheric Administration
 
 **Modelos:**
