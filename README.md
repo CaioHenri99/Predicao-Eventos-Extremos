@@ -30,12 +30,12 @@ Utilizamos a métrica de avaliação RMSE (Raiz Quadrada do Erro Médio)
 
 **Contato:**
 
-Contato dos participantes: \n
-Caio Henrique: infinit.dev7@gmail.com \n
-Andrei: \n
-Sofia: \n
-Guilherme: \n
-Vitor Manoel: \n
+Contato dos participantes:  
+Caio Henrique: infinit.dev7@gmail.com  
+Andrei:  
+Sofia:  
+Guilherme:  
+Vitor Manoel:  
 
 **Observações:**
 
@@ -44,7 +44,7 @@ Vitor Manoel: \n
 
 **Comissão Organizadora:**
 
-Prof. Maria José Pereira Dantas \n
+Prof. Maria José Pereira Dantas  
 Prof. José Elmo de Menezes
 
 **Links Úteis:**
