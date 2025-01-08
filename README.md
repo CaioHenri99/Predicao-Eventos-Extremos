@@ -20,7 +20,7 @@ Os dados utilizados neste projeto são provenientes de diversas fontes, incluind
 
 **Modelos:**
 
-Utilizamos o modelo de Machine Learning para a previsão de eventos extremos, tal como:
+Utilizamos a rede neural para a previsão de eventos extremos, tal como:
 
   * Long Short-Term Memory (LSTM)
 
