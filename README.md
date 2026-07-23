@@ -33,6 +33,10 @@ Predicao-Eventos-Extremos/
 │   ├── labels.csv
 │   ├── satellite_pos.csv
 │   └── sunspots.csv
+├── models/                # Modelo treinado e configuração
+│   ├── model.keras
+│   ├── config.json
+│   └── scaler.pck
 ├── notebooks/             # Notebooks de análise e modelagem
 │   └── BaseDadosLabelsV1_8.ipynb
 ├── docs/                  # Relatório e documentação
