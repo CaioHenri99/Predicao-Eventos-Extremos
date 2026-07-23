@@ -1,0 +1,9 @@
+# Dependências do projeto Predição de Eventos Extremos
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+keras
+jupyter

@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.python-version
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Dado bruto grande baixado da fonte (nao versionar)
+solar_wind.csv
+
+# OBS: os artefatos do modelo finalizado em models/ (model.keras, config.json,
+# scaler.pck) SAO versionados de proposito. Se preferir nao versiona-los,
+# descomente as linhas abaixo:
+# models/*.keras
+# models/*.pck
+
+# Sistema operacional / editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
