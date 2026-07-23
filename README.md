@@ -38,7 +38,7 @@ Predicao-Eventos-Extremos/
 │   ├── config.json
 │   └── scaler.pck
 ├── notebooks/             # Notebooks de análise e modelagem
-│   └── BaseDadosLabelsV1_8.ipynb
+│   └── PredicaoDST.ipynb
 ├── docs/                  # Relatório e documentação
 │   └── Relatorio_Equipe_CDI.pdf
 ├── references/            # Artigos científicos de referência
